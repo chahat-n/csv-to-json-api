@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Node dependencies
+node_modules/
+
+# CSV and data output
+data/*.csv
+
+# Log files
+logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
